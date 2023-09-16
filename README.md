@@ -1,10 +1,10 @@
-<h1 align="center">Halo, I'm Phuong Thanh 🌻</h1>
+<h1 align="center">Halo <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Phuong Thanh 🌻</h1>
 <h3 align="center"><i>A developer with a passion for singing</i> 🎤</h3>
 
 
-- 🌱 I'm currently learning on **NextJS, NuxtJS, Ruby on Rails.**
+- 🔭 I'm currently learning on **NuxtJS and Ruby on Rails.**
 
-- For foreign languages, i'm learning **Japanese and English.**
+- 🌱 For foreign languages, i'm learning **Japanese and English.**
 
 - 📫 How to reach me **hmc2910@gmail.com**
 
